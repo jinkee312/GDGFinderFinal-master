@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
 
         AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
     }
-
+//
     /**
      * Called when the hamburger menu or back button are pressed on the Toolbar
      *
